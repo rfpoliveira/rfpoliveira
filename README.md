@@ -14,7 +14,7 @@ With that objetive in mind I ran into 42 Porto is where I currently student purs
   ## [42_Common_Core](https://github.com/rfpoliveira/42_Common_Core/blob/main/README.md)
     This is my current course with all the finished projects and information about them.
 
-  ##[Leetcode Training](https://github.com/rfpoliveira/Leetcode_Training/tree/main/C/Top_150_interview)
+  ## [Leetcode Training](https://github.com/rfpoliveira/Leetcode_Training/tree/main/C/Top_150_interview)
     All the exercises done to further train my programming skills with C and C++
   
 
