@@ -12,7 +12,22 @@ With that objetive in mind I ran into 42 Porto is where I currently student purs
 ## Projects:
 
   ## [42_Common_Core](https://github.com/rfpoliveira/42_Common_Core/blob/main/README.md)
+   ^^Link to the projects.
+    
     This is my current course with all the finished projects and information about them.
+    About the School
+
+    An innovative and tuition-free software engineering school. 
+    It operates on a unique peer-to-peer, project-based learning model with no teachers or traditional classes. 
+    The curriculum is gamified, encouraging  a "learn by doing" approach. The campus is open 24/7, 
+    providing the flexibility to learn at my own pace.
+
+    Skills I'm Learning
+
+    I'm developing strong technical skills in areas like C programming, C++, data structures and algorithms, and system administration. 
+    Beyond just coding, the collaborative nature of the school has helped me cultivate essential soft skills such as teamwork, 
+    communication, problem-solving, and resilience. 
+    I am constantly working on new projects that challenge me to think critically and adapt to real-world scenarios.
 
   ## [Leetcode Training](https://github.com/rfpoliveira/Leetcode_Training)
     All the exercises done to further train my programming skills with C and C++
