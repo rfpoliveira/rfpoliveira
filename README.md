@@ -29,6 +29,10 @@ With that objetive in mind I ran into 42 Porto is where I currently student purs
     communication, problem-solving, and resilience. 
     I am constantly working on new projects that challenge me to think critically and adapt to real-world scenarios.
 
+  ## [Exercism Bash Course](https://github.com/rfpoliveira/bash_exercism)
+    Exercism is a free, community-driven platform designed to help programmers achieve fluency in various languages, this repo has the sollution for the Bash course I am doing, all tested by me and the platform.
+    The objetive with this being developing my skill with bash scripting to further test my projects.
+
   ## [Leetcode Training](https://github.com/rfpoliveira/Leetcode_Training)
     All the exercises done to further train my programming skills with C and C++
   
