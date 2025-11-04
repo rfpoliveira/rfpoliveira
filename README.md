@@ -1,4 +1,4 @@
-## Hello there! 👋
+<h1 align="center">Hello! Ready to Rumble? 👋</h1>
 
 I'm Renato, a passionate programming student with a strong will to learn more and do better. This all started as a side project on CS50 and quickly became aparent that was what I wanted to do with my carrer! 
 With that objetive in mind I ran into 42 Porto is where I currently student pursuing a life in this challenging world of informatics.
