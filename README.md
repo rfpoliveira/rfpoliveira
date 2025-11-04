@@ -5,15 +5,48 @@ With that objetive in mind I ran into 42 Porto is where I currently student purs
 
 - Currently enrolled at [42 Porto](https://www.42porto.com/pt/).
 
-## Skills:
+###
 
-<img src="https://github.com/user-attachments/assets/21133812-7da0-4231-afbe-79197baf9533" width=3% height=3%><img src="https://github.com/user-attachments/assets/8e4c33e0-3851-429a-bbb1-b5cd82ccb813" width=3% height=3%><img src="https://github.com/user-attachments/assets/030c40e1-165c-4017-b80a-c9d9f3fbda0b" width=6% height=6%><img src="https://github.com/user-attachments/assets/11e3d9b6-9fa1-43e8-bced-81fe87cb48c3" width=3% height=3%>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="60" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rpedrosa/rpedrosa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rpedrosa/rpedrosa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rpedrosa/rpedrosa/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rpedrosa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rpedrosa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ## Projects:
 
   ## [42_Common_Core](https://github.com/rfpoliveira/42_Common_Core/blob/main/README.md)
-   ^^Link to the projects.
-    
+  
     This is my current course with all the finished projects and information about them.
     About the School
 
