@@ -1,9 +1,9 @@
 <h1 align="center">Get ready for the next battle!</h1>
 
 I'm Renato, a passionate programming student with a strong will to learn more and do better. This all started as a side project on CS50 and quickly became aparent that was what I wanted to do with my carrer! 
-With that objetive in mind I ran into 42 Porto is where I currently student pursuing a life in this challenging world of informatics.
+With that objetive in mind I ran into 42 Porto is where I currently student pursuing a life in this challenging world of informatics but as more challeging it is the more reward it is because every puzzle, every battle makes us grow in fun and interesting different ways, line by line.
 
-- Currently enrolled at [42 Porto](https://www.42porto.com/pt/).
+Currently enrolled at [42 Porto](https://www.42porto.com/pt/), a peer-to-peer academy where we learn in a really similar way to a future job, with group projects, rigorous projects and deadlines, responsability over the way we organize our work and in general a environment where we learn and taught at the same time all the time, developing crucial technical and soft skills to enter the job market really well prepared.
 
 ###
 
@@ -32,10 +32,10 @@ With that objetive in mind I ran into 42 Porto is where I currently student purs
 
 ###
 
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=rfpoliveira&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
-![](https://nirzak-streak-stats.vercel.app/?user=rfpoliveira&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rfpoliveira&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<div align ="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rfpoliveira&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfpoliveira&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+</div>
 
 ###
 
@@ -50,8 +50,6 @@ With that objetive in mind I ran into 42 Porto is where I currently student purs
     It operates on a unique peer-to-peer, project-based learning model with no teachers or traditional classes. 
     The curriculum is gamified, encouraging  a "learn by doing" approach. The campus is open 24/7, 
     providing the flexibility to learn at my own pace.
-
-    Skills I'm Learning
 
     I'm developing strong technical skills in areas like C programming, C++, OOP, data structures and algorithms,
     and system administration. Beyond just coding, the collaborative nature of the school has helped me 
