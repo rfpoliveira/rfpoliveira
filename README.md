@@ -32,14 +32,14 @@ With that objetive in mind I ran into 42 Porto is where I currently student purs
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rfpoliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rfpoliveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+# 📊 GitHub Stats:
+<!-- ![](https://github-readme-stats.vercel.app/api?username=rfpoliveira&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
+![](https://nirzak-streak-stats.vercel.app/?user=rfpoliveira&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rfpoliveira&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ###
 
-## Projects:
+## 🛠️Projects:
 
   ## [42_Common_Core](https://github.com/rfpoliveira/42_Common_Core/blob/main/README.md)
   
@@ -53,7 +53,7 @@ With that objetive in mind I ran into 42 Porto is where I currently student purs
 
     Skills I'm Learning
 
-    I'm developing strong technical skills in areas like C programming, C++, data structures and algorithms,
+    I'm developing strong technical skills in areas like C programming, C++, OOP, data structures and algorithms,
     and system administration. Beyond just coding, the collaborative nature of the school has helped me 
     cultivate essential soft skills such as teamwork, communication, problem-solving, and resilience. 
     I am constantly working on new projects that challenge me to think critically and adapt to real-world scenarios.
