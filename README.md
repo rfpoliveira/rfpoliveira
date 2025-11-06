@@ -41,7 +41,7 @@ Currently enrolled at [42 Porto](https://www.42porto.com/pt/), a peer-to-peer ac
 
 ## 🛠️Projects:
 
-  ## [42_Common_Core](https://github.com/rfpoliveira/42_Common_Core/blob/main/README.md)
+  ## 👨‍💻[42_Common_Core](https://github.com/rfpoliveira/42_Common_Core/blob/main/README.md)
   
     This is my current course with all the finished projects and information about them.
     About the School
@@ -55,6 +55,11 @@ Currently enrolled at [42 Porto](https://www.42porto.com/pt/), a peer-to-peer ac
     and system administration. Beyond just coding, the collaborative nature of the school has helped me 
     cultivate essential soft skills such as teamwork, communication, problem-solving, and resilience. 
     I am constantly working on new projects that challenge me to think critically and adapt to real-world scenarios.
+
+  ## 🕹️[Gameboy emulator - RFPO-GB (Work in Progress)](https://github.com/rfpoliveira/GB_Emulator)
+    This project is an emulator for the original GameBoy built from scratch in modern C++.
+    The goal of this exercise is deepen my low-level systems programming. 
+    It requires translating complex hardware documentation into functioning, reliable and optimized software.
 
 ## 🎯Training:
 
