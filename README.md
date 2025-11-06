@@ -56,6 +56,8 @@ Currently enrolled at [42 Porto](https://www.42porto.com/pt/), a peer-to-peer ac
     cultivate essential soft skills such as teamwork, communication, problem-solving, and resilience. 
     I am constantly working on new projects that challenge me to think critically and adapt to real-world scenarios.
 
+## 🎯Training:
+
   ## [Exercism Bash Course](https://github.com/rfpoliveira/bash_exercism)
     Exercism is a free, community-driven platform designed to help programmers achieve fluency in various languages,
     this repo has the sollution for the Bash course I am doing, all tested by me and the platform.
